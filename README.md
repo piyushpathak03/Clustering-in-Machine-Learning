@@ -19,15 +19,14 @@ Since the task of clustering is subjective, the means that can be used for achie
 ### Applications of Clustering
 Clustering has a large no. of applications spread across various domains. Some of the most popular applications of clustering are:
 
-Recommendation engines
-Market segmentation
-Social network analysis
-Search result grouping
-Medical imaging
-Image segmentation
-Anomaly detection
+1. Recommendation engines
+2. Market segmentation
+3. Social network analysis
+4. Search result grouping
+5. Medical imaging
+6. Image segmentation
+7. Anomaly detection
  
-
 ## About me
 
 **Piyush Pathak**
